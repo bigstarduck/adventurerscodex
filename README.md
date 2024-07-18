@@ -48,6 +48,9 @@ Have questions or just want to chat?
 
 Join the conversations on [Gitter](https://gitter.im/Sonictherocketman/adventurerscodex) or chat with us in the issues. We tend to hold a lot of discussions there and new features are always being hashed out. We'd love your feedback.
 
+Local Setup
+====================
+See this [how to run locally](RUN_LOCALLY.md) page
 
 How can I contribute?
 =====================
